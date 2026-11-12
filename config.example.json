@@ -1,0 +1,9 @@
+{
+  "criteria": {
+    "forbidden_words": ["crypto", "NFT"],
+    "professional_check": true,
+    "tone": "friendly",
+    "exclude_politics": true
+  },
+  "username": "devmukhtar"
+}
